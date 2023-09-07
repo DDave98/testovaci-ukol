@@ -1,2 +1,3 @@
-# testovaci-ukol
-popis a typ úkolu
+# testovaci-ukol zadání
+
+- naprogramuj nějaky kod ....
